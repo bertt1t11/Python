@@ -1,0 +1,1 @@
+py -m  C:\Users\frig\OneDrive\Documents\A Programming\Python\pyGameTst.pyw
