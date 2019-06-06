@@ -1,0 +1,8 @@
+
+
+puts "ruby"
+
+for n in 1..6
+	n=n+1
+	redo if n==3
+end
